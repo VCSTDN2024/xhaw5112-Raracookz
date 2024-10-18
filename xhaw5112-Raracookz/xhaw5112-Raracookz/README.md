@@ -1,35 +1,31 @@
 
-# Empowering the Nation - Mobile App
+# Empowering the Nation - Website
+
+# Overview
+Empowering the Nation was established in 2018 and offers training programs in Johannesburg, focusing on domestic workers and gardeners. The website aims to promote the organization’s services, providing detailed information on available courses and allowing potential clients to calculate fees and contact the organization.
 
 
-
-
-## Overview
-Empowering the Nation is dedicated to providing accessible training programs in Johannesburg. The mobile app offers a user-friendly interface for individuals to access course information, register for programs, calculate fees, and contact the organization directly.
 ## Features
-⚫Home Page: Quick access to the organization’s mission and available courses.
+⚫Home Page: Overview of Empowering the Nation and its mission.
 
-⚫Course Information: Summaries of six-month Learnerships and six-week Short Skills Training Programs.
+⚫Course Summaries: Provides information on both the six-month Learnerships and six-week Short Skills Training Programs.
 
-⚫Registration Form: Allows users to register for courses directly from the app.
+⚫Course Details: Comprehensive information on each course, including registration options.
 
-⚫Fee Calculator: Provides a simple tool to calculate total fees based on course selection.
+⚫Fee Calculator: A tool that allows users to estimate course fees.
 
-⚫Contact Page: Easily accessible contact information.
+⚫Contact Information: Provides users with options to reach Empowering the Nation.
 ## Technology stack
-⚫Platform: Android (built using Android Studio)
+⚫Frontend: HTML5, CSS3, JavaScript
 
-⚫Languages: Java/Kotlin
+⚫Backend: (Optional, if used) Node.js or another 
 
-⚫UI Design: XML for layout
+⚫backend system for processing requests.
 
-⚫Backend Integration: (Optional) Can be integrated with Firebase or REST APIs for backend services
-
-⚫Supported Platforms: Android
+⚫UI/UX Design: Designed using Figma for wireframes and layouts.
 ## Usage
-Browse available courses, register for training programs, or calculate fees on the go.
-Contact Empowering the Nation through the app’s contact page.
-
+Navigate through the home page, course details, fee calculator, and contact page.
+Potential clients can easily access course details and contact Empowering the Nation.
 ## Contributors
 Molemo (Leader)
 ![Molemo](https://github.com/user-attachments/assets/ea36c098-0adb-4aba-8c87-65e3f0a27889)
@@ -45,9 +41,8 @@ This project is licensed under the MIT License.
 ## Logo
 ![image](https://github.com/user-attachments/assets/10d2490f-d840-4c44-88be-0d7c19d04220)
 
-## Youtube Link
-https://youtu.be/ye0UVdSeRuY
-
 ## Powerpoint
 [Empowering the nation presentation.pptx](https://github.com/user-attachments/files/17435282/Empowering.the.nation.presentation.pptx)
+
+
 
